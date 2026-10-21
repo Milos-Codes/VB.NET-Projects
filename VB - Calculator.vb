@@ -6,7 +6,7 @@ Module Program
         Dim prviBroj As Double
         Dim drugiBroj As Double
 
-        Console.WriteLine("VISER Console Calculator")
+        Console.WriteLine("Konzolni Kalkulator")
         Console.Write("Unesite prvi broj: ")
         prviBroj = Val(Console.ReadLine())
 
