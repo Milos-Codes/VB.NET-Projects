@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="WindowsApp1/WindowsApp1.vbproj" Id="0e30054e-0cda-4ca8-aa1e-da46ce49baff" />
+  <Project Path="WindowsApp2/WindowsApp2.vbproj" Id="ae958257-239c-4abc-93a3-fdf14d0f296a" />
+  <Project Path="WindowsApp3/WindowsApp3.vbproj" Id="329d23ca-aa2c-4434-89d6-45075ee21f12" />
+</Solution>
